@@ -291,7 +291,7 @@ ul#userinfo_username li a:hover {
 
 ul#userinfo_username li a.username {
 	color: #575757;
-	max-width: 70px;
+	max-width: 60px;
 	text-overflow: ellipsis;
 }
 
