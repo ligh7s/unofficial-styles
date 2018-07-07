@@ -10,3 +10,4 @@ to preserve them after Redacted stops official support.
 * Minimal: https://rawgit.com/ligh7s/unofficial-styles/master/minimal/style.css
 * Postmod: https://rawgit.com/ligh7s/unofficial-styles/master/postmod/style.css
 * Proton: https://rawgit.com/ligh7s/unofficial-styles/master/proton/style.css
+* DarkMonoAlt: https://rawgit.com/ligh7s/unofficial-styles/master/dark-mono-alt/style.css
